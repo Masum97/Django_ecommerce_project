@@ -8,3 +8,5 @@ def index(request):
 
 def deep_learning(request):
     return HttpResponse("welcome to our deep learning course")
+def deep_learning(request):
+    return HttpResponse("welcome to our machine learning course")
